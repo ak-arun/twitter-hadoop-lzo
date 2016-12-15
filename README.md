@@ -1,3 +1,6 @@
+This is copied over from https://github.com/twitter/hadoop-lzo on Dec 15 2016
+
+
 Hadoop-LZO [![Build Status](https://travis-ci.org/twitter/hadoop-lzo.png?branch=master)](https://travis-ci.org/twitter/hadoop-lzo)
 ==========
 
