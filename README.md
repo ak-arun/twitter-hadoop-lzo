@@ -1,4 +1,4 @@
-This is copied over from https://github.com/twitter/hadoop-lzo on Dec 15 2016
+This is copied over from https://github.com/twitter/hadoop-lzo on Dec 15 2016. Just so that I have the necessary istructions for building the LZO jar from source. 
 
 
 Hadoop-LZO [![Build Status](https://travis-ci.org/twitter/hadoop-lzo.png?branch=master)](https://travis-ci.org/twitter/hadoop-lzo)
